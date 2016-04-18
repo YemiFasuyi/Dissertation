@@ -12,6 +12,7 @@ import CoreLocation
 import Foundation
 import AddressBook
 import Contacts
+import Parse
 
 class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate, UISearchBarDelegate {
     
